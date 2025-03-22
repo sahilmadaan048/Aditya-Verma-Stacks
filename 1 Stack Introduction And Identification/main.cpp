@@ -55,7 +55,7 @@ for(int i=0; i<n; i++){
             j is from i to n
             j is from n to i
 
-            if something like this exists there sureky is
+            if something like this exists there surely is
             a more optimised solution possible using stacks
         */
     }
